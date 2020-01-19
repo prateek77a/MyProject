@@ -1,1 +1,0 @@
-This is a sample program to learn git as part of my weekly learning.
